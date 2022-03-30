@@ -4,6 +4,7 @@ description: Solutions to the assigned homework problems based on 3D heat and wa
   equations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-303-linear-partial-differential-equations-fall-2006/51d067cc59d0bc0639235ed2b8a502eb_probpde3dsolns.pdf
 file_type: application/pdf
+parent_uid: 521c6da8-15b1-0900-0e9b-dbea9f146bfd
 resourcetype: Document
 title: probpde3dsolns.pdf
 uid: 51d067cc-59d0-bc06-3923-5ed2b8a502eb

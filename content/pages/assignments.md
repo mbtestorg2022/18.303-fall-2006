@@ -30,7 +30,7 @@ SOLUTIONS
 
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/probhei))
 
-ps1.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps1.m))
+ps1.m ({{% resource_link "0d4e2bfa-b9ef-3074-6dbe-99fb94adb358" "M" %}})
 
 
 {{< tdclose >}}
@@ -45,7 +45,7 @@ ps1.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fal
 
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/probheii-1))
 
-ps2.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps2.m))
+ps2.m ({{% resource_link "d774c3d4-3953-3ab7-d320-1bf566d9a9b2" "M" %}})
 
 
 {{< tdclose >}}
@@ -60,7 +60,7 @@ ps2.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fal
 
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/probwave1-1))
 
-ps3.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps3.m))
+ps3.m ({{% resource_link "f03cda14-2b4f-7f25-2c39-5881a040287a" "M" %}})
 
 
 {{< tdclose >}}
@@ -75,7 +75,7 @@ ps3.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fal
 
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/probquasi-1))
 
-ps4.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps4.m))
+ps4.m ({{% resource_link "42f8b8e6-600a-30de-c149-2ce0bcc811dd" "M" %}})
 
 
 {{< tdclose >}}
@@ -90,7 +90,7 @@ ps4.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fal
 
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/probpde3d-1))
 
-ps5.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps5.m))
+ps5.m ({{% resource_link "cb37828e-9d90-b05d-6947-74491baeaa28" "M" %}})
 
 
 {{< tdclose >}}
@@ -105,7 +105,7 @@ ps5.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fal
 
 Problem Set 6 ([PDF]({{< baseurl >}}/resources/probinf-1))
 
-ps6.m ([M](/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/assignments/ps6.m))
+ps6.m ({{% resource_link "410c48cb-7b78-9640-0a32-7237990b1d23" "M" %}})
 
 
 {{< tdclose >}}

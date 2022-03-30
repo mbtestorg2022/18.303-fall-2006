@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to the test problems.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-303-linear-partial-differential-equations-fall-2006/f7a2bd70476a53349c61d68773c88f51_test1solns.pdf
 file_type: application/pdf
+parent_uid: 5e249a61-d8b8-6170-a887-bbba603c8be2
 resourcetype: Document
 title: test1solns.pdf
 uid: f7a2bd70-476a-5334-9c61-d68773c88f51
